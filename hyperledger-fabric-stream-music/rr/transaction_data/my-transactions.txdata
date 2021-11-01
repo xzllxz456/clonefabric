@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "RrExists",
+        "transactionLabel": "A test RrExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "CreateRr",
+        "transactionLabel": "A test CreateRr transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "ReadRr",
+        "transactionLabel": "A test ReadRr transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "UpdateRr",
+        "transactionLabel": "A test UpdateRr transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "DeleteRr",
+        "transactionLabel": "A test DeleteRr transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "javaExists",
+        "transactionLabel": "A test javaExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createJava",
+        "transactionLabel": "A test createJava transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readJava",
+        "transactionLabel": "A test readJava transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateJava",
+        "transactionLabel": "A test updateJava transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteJava",
+        "transactionLabel": "A test deleteJava transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
